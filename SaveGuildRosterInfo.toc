@@ -1,0 +1,8 @@
+## Interface: 30300
+## Version: 0.0.1
+## Title: SaveGuildRosterInfo
+## Notes: Saving guild roster info into file
+## Author: Oleksandr Hrechko
+## SavedVariables: SaveGuildRosterInfoDB
+
+SaveGuildRosterInfo.lua
